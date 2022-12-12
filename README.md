@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ginnycheah
-- 👀 I’m interested in People Analytics
+- 👀 I’m interested in People & Market Analytics
 - 🌱 I’m currently learning Data Visualization
 - 💞️ I’m looking to collaborate and learn from data seniors to further improve myself
 - 📫 Reach me at ginny.cheah@foodpanda.com for work or ginnybg.cheah@gmail for offwork projects
